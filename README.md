@@ -1,16 +1,40 @@
-## Hi there 👋
+# egzola
 
-<!--
-**egzola/egzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Old-school programmer into Assembly, C, Linux, electronics and real-world systems.
 
-Here are some ideas to get you started:
+I build practical software, self-hosted tools and hardware projects. Interested in low-level computing, debugging, infrastructure, microcontrollers and understanding how things actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Self-hosted apps
+- Docker / Linux environments
+- Embedded systems
+- Practical engineering notes
+- Shipping useful tools
+
+## Projects
+
+- **bitBoard** — customizable crypto price dashboard for Umbrel
+- **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
+- **engineering-notes** — real-world technical notes, fixes and lessons learned
+
+## Philosophy
+
+Clean code matters.  
+But working code matters too.
+
+Understanding the path is often more valuable than only seeing the result.
+
+## Background
+
+Started programming early and never really stopped.
+
+Worked across old-school and modern stacks, including low-level systems, backend development, infrastructure and electronics.
+
+## Tools & Interests
+
+Assembly • C • Linux • Node.js • Docker • Networking • Electronics • Microcontrollers • Self-hosting • Debugging
+
+## Motto
+
+Build. Break. Fix. Learn. Repeat.
