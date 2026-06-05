@@ -16,6 +16,7 @@ I build practical software, self-hosted tools and hardware projects. Interested 
 
 - **bitBoard** — customizable crypto price dashboard for Umbrel
 - **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
+- **Telegrapho** — private self-hosted realtime text bridge between your device 
 - **engineering-notes** — real-world technical notes, fixes and lessons learned
 
 ## Philosophy
