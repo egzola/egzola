@@ -12,11 +12,12 @@ I build practical software, self-hosted tools and hardware projects. Interested 
 - Practical engineering notes
 - Shipping useful tools
 
-## Projects
+## Recent Projects
 
 - **bitBoard** — customizable crypto price dashboard for Umbrel
 - **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
 - **Telegrapho** — private self-hosted realtime text bridge between your device 
+- **OTP-Shelter** — self-hosted TOTP authenticator for your own 2FA
 - **engineering-notes** — real-world technical notes, fixes and lessons learned
 
 ## Philosophy
